@@ -1,0 +1,1 @@
+Simple program that when passed in a csv, trims the whitespace and saves the csv with whitepsace trimmed to the same folder
